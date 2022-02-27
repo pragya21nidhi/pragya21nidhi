@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Pragya Nidhi
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/dmpN9UYPvbvVvDpPz5/giphy.gif" />
 
 - 👀 I’m interested in IoT,AI/ML...!
 - 🌱 I’m currently learning Data Science...
