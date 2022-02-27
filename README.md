@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Pragya Nidhi
 <br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92947939/155017194-9ea7bfbd-eb1f-4c7d-867b-ea225b443488.gif?raw=true" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" />
 
 - 👀 I’m interested in IoT,AI/ML...!
 - 🌱 I’m currently learning Data Science...
