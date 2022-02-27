@@ -22,5 +22,5 @@
   *With great power comes great responsibility.
 
 
-  Quote: 
-  
+  Quote: You are ENOUGH !
+   
