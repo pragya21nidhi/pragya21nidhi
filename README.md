@@ -5,20 +5,19 @@
 - 👀 I’m interested in IoT,AI/ML...!
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on IoT, AI/ML projects...
-- ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with.
-- 📫 How to reach me - Dont! (jk)
+- 📫 How to reach me - pragyanidhi949@gmail.com
 
   
-  As suggested by my peers, i have been often described as an optimistic individual with a touch of particularity in my ethics. Someone who doesn't crack under pressure neither     get's stressed too easily.
+  As suggested by my peers, i have been often described as an optimistic individual with a touch of particularity in my ethics. Someone   who doesn't crack under pressure neither get's stressed too easily.
 
-  Looking for a team or an organization where I can learn and develop my skills...!
+  Looking for a platform where I can learn and develop my skills and showcase them...!
 
   
-  *Respect the privacy of others.
+  *The best revenge is massive success.
   
-  *Think before you type.
+  *Turn every life situation into a positive one.
   
-  *With great power comes great responsibility.
+  *You have to dream before your dreams can come true.
 
 
   Quote: You are ENOUGH !
