@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/dmpN9UYPvbvVvDpPz5/giphy.gif"  width="400px"></h2>
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pragya</h1>
-
+<br>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in IoT,AI/ML...!
