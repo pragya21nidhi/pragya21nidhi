@@ -1,7 +1,8 @@
- # 👋 Hi, I’m Pragya Nidhi
-<br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dmpN9UYPvbvVvDpPz5/giphy.gif" width=300px />
+<h2 align="center"><img src="https://media.giphy.com/media/dmpN9UYPvbvVvDpPz5/giphy.gif"  width="400px"></h2>
 
+
+## 👋 Hi, I’m Pragya Nidhi
+<br>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in IoT,AI/ML...!
